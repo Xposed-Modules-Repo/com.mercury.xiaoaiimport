@@ -1,7 +1,7 @@
-# 小爱课程表导入
+# 课表修复-R
 ![xiaoai](https://raw.githubusercontent.com/Xposed-Modules-Repo/com.mercury.xiaoaiimport/master/img/xiaoai.png)
 
-恢复小爱课程表的导入功能，可选择AI解析/适配仓库/其他课表软件等导入至小爱课程表  
+恢复超级小爱内置课表的导入功能，可选择AI解析/适配仓库/其他课表软件等导入至小爱课程表  
 
 ## 作用域
 超级小爱(com.miui.voiceassist)
